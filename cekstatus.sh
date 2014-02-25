@@ -1,0 +1,2 @@
+./cekmysql.sh;
+./cekweb.sh
