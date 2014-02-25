@@ -1,0 +1,6 @@
+# Xampp Checker Bash Versi 0.1
+# Rubah Username Dan Password Twitter Pada File false.sh dan down.sh
+# Rubah Konfigurasi Database Pada cekmysql.sh
+# Tambahkan cekstatus.sh kedalam cronjob anda
+# Software Ini Sangat Sederhana Silahkan Di Kembangkan Kembali Tanpa Perlu Izin Creatornya
+# Twitter Post Mengunakan Script Buatan Luka Pusic Mohon Jika Di Rubah Harap Mengcontact Yang Bersangkutan
