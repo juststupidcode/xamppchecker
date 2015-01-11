@@ -1,10 +1,7 @@
-awal=$(/opt/lampp/bin/mysqladmin -u [username] -p[password] -h [localhost/hostkamu] status)
-myArray=($awal)
+status=$(/opt/lampp/bin/mysql --user=root -e exit; echo $?)
 
 
-if [ "$myArray" != "Uptime:" ]
+if [ "$status" != "0" ]
 
-
-
-then  ./false.sh
+then  false.sh
 fi
